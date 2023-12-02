@@ -158,8 +158,7 @@ const game = () => {
 
         if (playAgain != "y") break;
     }
-    
+  console.log("Your final balance was: $" + balance);
 }
-
 
 game();
