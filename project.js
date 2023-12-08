@@ -1,3 +1,4 @@
+// Casino Slot
 // deposit money
 // determine a number of lines
 // collect a bet
