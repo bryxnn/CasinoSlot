@@ -38,13 +38,16 @@ Run the game with:
 
 Follow the on-screen prompts to spin the slot machine and play.
 
-📂 Project Structure
+## 📂 Project Structure
+```plaintext
 CasinoSlot/
 │── project.js          # Main game logic
 │── package.json        # Dependencies and project metadata
-│── image/              # Screenshot folder
+│── images/             # Screenshot folder
 │   └── casinoslot.png
 │── node_modules/       # Installed packages
+
+
 
 ⚙️ Dependencies
 
