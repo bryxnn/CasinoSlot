@@ -32,11 +32,12 @@ It uses text-based input/output for an interactive experience right in your term
     ```bash
     npm install
 
-▶️ Usage
+## ▶️ Usage
 
 Run the game with:
-    ```bash
-    node project.js
+```bash
+node project.js
+
 
 Follow the on-screen prompts to spin the slot machine and play.
 
