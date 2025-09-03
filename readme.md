@@ -66,7 +66,7 @@ CasinoSlot/
 ---
 
 ## 🧑‍💻 Author
-- Bryan  
+- Bryan M.
 
 ---
 
