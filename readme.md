@@ -35,9 +35,8 @@ It uses text-based input/output for an interactive experience right in your term
 ## ▶️ Usage
 
 Run the game with:
-```bash
-node project.js
-
+    ```bash
+    node project.js
 
 Follow the on-screen prompts to spin the slot machine and play.
 
@@ -49,7 +48,7 @@ CasinoSlot/
 │── images/             # Screenshot folder
 │   └── casinoslot.png
 │── node_modules/       # Installed packages
-```
+
 
 ## ⚙️ Dependencies
 - [prompt-sync](https://www.npmjs.com/package/prompt-sync) – for user input in the terminal  
