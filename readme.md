@@ -29,11 +29,13 @@ It uses text-based input/output for an interactive experience right in your term
    cd CasinoSlot
 
 2. Install dependencies:
+    ```bash
     npm install
 
 ▶️ Usage
 
 Run the game with:
+    ```bash
     node project.js
 
 Follow the on-screen prompts to spin the slot machine and play.
@@ -46,19 +48,18 @@ CasinoSlot/
 │── images/             # Screenshot folder
 │   └── casinoslot.png
 │── node_modules/       # Installed packages
+```
 
+## ⚙️ Dependencies
+- [prompt-sync](https://www.npmjs.com/package/prompt-sync) – for user input in the terminal  
+- [init](https://www.npmjs.com/package/init) – project initialization helper  
 
+---
 
-⚙️ Dependencies
+## 🧑‍💻 Author
+- Bryan  
 
-prompt-sync
- – for user input in the terminal
+---
 
-init
- – project initialization helper
-
-🧑‍💻 Author
-Bryan 
-
-📜 License
-This project is licensed under the ISC License
+## 📜 License
+- This project is licensed under the [ISC License](LICENSE).  
