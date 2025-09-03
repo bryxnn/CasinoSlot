@@ -2,7 +2,7 @@
 
 A simple Node.js command-line slot machine game. Spin the reels, test your luck, and see if you can hit the jackpot!
 
-![CasinoSlot Screenshot](image/casinoslot.png)
+![CasinoSlot Screenshot](images/casinoslot.png)
 
 ---
 
